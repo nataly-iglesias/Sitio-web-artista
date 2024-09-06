@@ -1,0 +1,136 @@
+body {
+  font-family: Open Sans, sans-serif;
+  font-size: 18px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f2f2f2;
+  color: #666;
+}
+
+h2,h3 {
+  margin: 10px 0;
+  padding: 0;
+}
+
+p {
+  text-align: justify;
+}
+
+ul,ol {
+  padding-left: 25px;
+  line-height: 20px;
+}
+
+input {
+  width: 60%;
+  padding: 10px;
+  margin: 1px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  height: 40px;
+  margin: 1px;
+  border-radius: 5px;
+  border: none;
+  background-color: #cca6a6;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #e3d4d4;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 38px;
+  color: #333;
+}
+
+#Img_Laufey {
+  border-radius: 50%;
+  width: 50%;
+}
+
+/* Discografia y album mas escuchado */
+table {
+  border-collapse: collapse;
+  width: 100%; 
+}
+
+td {
+  width: 40%;
+  padding: 10px;
+  vertical-align: top;
+}
+
+img {
+  max-width: 28%;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+#Album_Mas_Escuchado img {
+  border-radius: 20px;
+  border: 0.5px solid #ccc;
+  margin-left: 37%;
+  margin-bottom: 20px;
+}
+
+#Titulo_Album {
+  text-align: center;
+  margin-top: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* Footer */
+.Contenedor {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.Footer {
+  background-color: #e3d4d4;
+  border-radius: 10px;
+}
+
+.Footer-Row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align: center;
+}
+
+.Footer-Links {
+  padding: 10px;
+  width: 45%;
+}
+
+.Footer-Links img {
+  width: 40px;
+  padding: 10px;
+}
+
+.Footer-Form {
+  width: 45%;
+  padding: 10px;
+}
+
+.Footer-Autor {
+  padding: 10px;
+  width: 45%;
+}
+
+.Footer-Autor img {
+  width: 40px;
+  text-align: center;
+}
+
+.Footer-DerechosA {
+  width: 45%;
+  padding: 10px;
+}
