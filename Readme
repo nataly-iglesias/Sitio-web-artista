@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Página Web
 Este proyecto es una página web dedicada a la cantante y compositora islandesa-china Laufey Lín Bing Jónsdóttir, como parte de los trabajos elaborados para el bootcamp de TecnolochicasPro.
 
@@ -13,6 +14,23 @@ Este proyecto es una página web dedicada a la cantante y compositora islandesa-
 ## Tecnologías utilizadas
 - **HTML5**: Estructura de la página.
 - **CSS3**: Estilos para el diseño visual.
+=======
+# Sitio web de un artista
+Este proyecto es una página web dedicada a la cantante y compositora islandesa-china Laufey Lín Bing Jónsdóttir, como parte de los trabajos elaborados para el bootcamp de TecnolochicasPro.
+
+## Secciones Principales
+* Encabezado
+* Biografía
+* Carrera Musical
+* Influencias y Estilo Musical
+* Discografía
+* Álbum Más Popular
+* Redes Sociales y Suscripción
+
+## Tecnologías Utilizadas
+* HTML5: Estructura de la página.
+* CSS3: Estilos para el diseño visual.
+>>>>>>> f38b943dd3a7346fe634373409bac416dcee0f83
 
 ## Visualización
 <<<<<<< HEAD
