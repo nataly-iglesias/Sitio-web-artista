@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Página Web
-Este proyecto es una página web dedicada a la cantante y compositora islandesa-china Laufey Lín Bing Jónsdóttir, como parte de los trabajos elaborados para el bootcamp de TecnolochicasPro.
+Este proyecto es una página web accesible dedicada a la cantante y compositora islandesa-china Laufey Lín Bing Jónsdóttir, como parte de los trabajos elaborados para el bootcamp de TecnolochicasPro.
 
 ## Secciones principales
 - Encabezado
@@ -11,38 +11,26 @@ Este proyecto es una página web dedicada a la cantante y compositora islandesa-
 - Álbum más popular
 - Redes Sociales y Suscripción
 
-## Tecnologías utilizadas
-- **HTML5**: Estructura de la página.
-- **CSS3**: Estilos para el diseño visual.
-=======
 # Sitio web de un artista
 Este proyecto es una página web dedicada a la cantante y compositora islandesa-china Laufey Lín Bing Jónsdóttir, como parte de los trabajos elaborados para el bootcamp de TecnolochicasPro.
 
 ## Secciones Principales
 * Encabezado
 * Biografía
-* Carrera Musical
-* Influencias y Estilo Musical
+* Carrera musical
+* Influencias y estilo musical
 * Discografía
-* Álbum Más Popular
-* Redes Sociales y Suscripción
+* Temas más escuchados
+* Álbum más popular
+* Redes sociales y suscripción
 
 ## Tecnologías Utilizadas
 * HTML5: Estructura de la página.
 * CSS3: Estilos para el diseño visual.
->>>>>>> f38b943dd3a7346fe634373409bac416dcee0f83
 
 ## Visualización
 <<<<<<< HEAD
 Disponible en: [Sitio web artista](https://nataly-iglesias.github.io/Sitio-web-artista/)
-=======
-Disponible en: [Sitio web artista](https://tusitioweb.com)
->>>>>>> 4b01764f1a5d502a74194813dfd50d895d4e590e
-
-Vista previa:
-![Captura 1](./imagenes/Captura_1)
-![Captura 2](./imagenes/Captura_2)
-![Captura 3](./imagenes/Captura_3)
 
 ## Autor
 Este sitio fue creado por [Fernanda Nataly Iglesias Rincón](https://www.linkedin.com/in/nataly-iglesias-29b9a1270/).
